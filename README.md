@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohamed said fatnassi
+- 🌱 I’m currently learning full stack in Elife Béja
+- 💞️ I’m looking to work as a freelancer and expand my knowledge and experience
+- 📫 Ask me about Java, MySql, Logo design
